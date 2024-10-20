@@ -53,7 +53,7 @@
       "prettier-plugin-tailwindcss"
     ],
     "organizeImportsSkipDestructiveCodeActions": true,
-    "tailwindEntryPoint": "./styles/globals.css",
+    "tailwindEntryPoint": "./styles/tailwind.css",
     "tailwindFunctions": [
       "twMerge",
       "clsx",
