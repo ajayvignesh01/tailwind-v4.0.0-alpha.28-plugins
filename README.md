@@ -6,3 +6,5 @@ However, with the new version, the plugin is not working as expected.
 As you can see in the main page.tsx, the `animate-in fade-in zoom-in` classes are not working as expected.
 
 THE CURRENT VERSION OF TAILWINDCSS IS 4.0.0-alpha.28
+
+This project is a fresh install of Next.js 15 RC2 with shadcn ui and tailwindcss. Eslint has been upgraded to v9, and prettier has also been added.
